@@ -6,7 +6,7 @@
 - 11/03/2014 Email conversation on setting up a work plan
     - The idea was to plan per semester with emphasis on hands-on exercises
 - 11/06/2014 Email conversation on first programming exercise to write quick-sort algorithm
-- 11/08/2014 Skype conversation on,
+- 11/08/2014 Skype conversation (~1hr long) on,
     - expectations from the mentoring program
     - Malith's solution to quick-sort implemenation
     - explaining the basics of object-oriented programming, call-by-value vs. call-by-reference semantics, and pointer opeartions
