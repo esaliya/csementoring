@@ -10,6 +10,7 @@
     - expectations from the mentoring program
     - Malith's solution to quick-sort implemenation
     - explaining the basics of object-oriented programming, call-by-value vs. call-by-reference semantics, and pointer opeartions
+- 12/06/14 Email conversation on some general programming concepts
 
 [Frank Warnakula]:(https://lk.linkedin.com/in/frankwarnakula) 
 [Malith Thilakarathne]:https://www.facebook.com/Malit.Tilak
